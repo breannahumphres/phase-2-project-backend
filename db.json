@@ -38,7 +38,7 @@
 { 
 "Id": 3,
 "Name": "Sam",
-"Img": "https://stardewvalleywiki.com/File:Sam_Winter_01.png",
+"Img": "https://stardewvalleywiki.com/mediawiki/images/1/19/Sam_Winter_01.png",
 "Caption": "I like taking walks in the forest this time of year. The temperature is so comfortable.",
 "Comments": 
 [
@@ -374,7 +374,7 @@
 "Id": 4,
 "Name": "Gil",
 "Img": "https://stardewvalleywiki.com/mediawiki/images/7/7b/Gil_Surprised.png",
-"Caption": "...*snore*...",
+"Caption": "...*snore*..."
 },
 
 {
