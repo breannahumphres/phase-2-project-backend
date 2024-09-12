@@ -1,7 +1,7 @@
 {
   "Villagers": [
     {
-      "Id": 0,
+      "id": 0,
       "Name": "Alex",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/6/69/Alex_Gridball.png",
       "Caption": "I'd ask you to throw the ball around, but you don't really seem like the sports type",
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "Id": 1,
+      "id": 1,
       "Name": "Elliot",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/3/3c/Elliott_Beach_Surprised.png",
       "Caption": "The sun is angry today... My skin is a bit too delicate, I'm afraid.",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "Id": 2,
+      "id": 2,
       "Name": "Harvey",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Harvey_Neutral.png",
       "Caption": " I'm Harvey, the local doctor. I perform regular check-ups and medical procedures for all the residents of Pelican Town.",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "Id": 3,
+      "id": 3,
       "Name": "Sam",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/1/19/Sam_Winter_01.png",
       "Caption": "I like taking walks in the forest this time of year. The temperature is so comfortable.",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "Id": 4,
+      "id": 4,
       "Name": "Sebastian",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/1/12/Sebastian_Working_1.png",
       "Caption": "What am I going to do today? Probably nothing.",
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "Id": 5,
+      "id": 5,
       "Name": "Shane",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/e/eb/Shane_Fallen_Down.png",
       "Caption": "I don't have to go into work today, so I'm not complaining...",
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "Id": 6,
+      "id": 6,
       "Name": "Abigail",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/b/bf/Abigail_Blush.png",
       "Caption": "I used to think Pelican Town was kinda drab, but lately I'm starting to love some things about it.",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "Id": 7,
+      "id": 7,
       "Name": "Emily",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Emily_Beach.png",
       "Caption": "This world is full of spirits and magic...",
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "Id": 8,
+      "id": 8,
       "Name": "Haley",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Haley_Winter_13.png",
       "Caption": "I spent all morning doing my hair... now the rain could mess it up. *sigh* ... Life is hard sometimes.",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "Id": 9,
+      "id": 9,
       "Name": "Leah",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Leah_Beach_Surprised.png",
       "Caption": "It's simpler to be friends with the trees. They don't have much to say.",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "Id": 10,
+      "id": 10,
       "Name": "Maru",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Maru_Nurse_Happy.png",
       "Caption": "My mother is a carpenter and my dad is a scientist. I guess it makes sense that I'm into building gadgets.",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "Id": 11,
+      "id": 11,
       "Name": "Penny",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/c/ca/Penny_Dress.png",
       "Caption": "When you're lost in a book, it's easy to forget the realities of your life. ...Maybe that's why I like reading so much.",
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "Id": 12,
+      "id": 12,
       "Name": "Caroline",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/3/3b/Caroline_Happy.png",
       "Caption": "Today I'm just going to relax and think positively. Do you ever take a day off?",
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "Id": 13,
+      "id": 13,
       "Name": "Clint",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Clint_Dress_Up.png",
       "Caption": "I'm Clint. I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy.",
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "Id": 14,
+      "id": 14,
       "Name": "Demetrius",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Demetrius_Concerned.png",
       "Caption": "I'm Demetrius, local scientist and father.",
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "Id": 15,
+      "id": 15,
       "Name": "Dwarf",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/4/45/Dwarfscrnshot.png",
       "Caption": "I got all this stuff from the surface. I just take it from your people during the night.",
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "Id": 16,
+      "id": 16,
       "Name": "Evelyn",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Evelyn_Winter_01.png",
       "Caption": "You can call me 'Granny' if you like.",
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "Id": 17,
+      "id": 17,
       "Name": "George",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/7/78/George.png",
       "Caption": "Looks like another gloomy day.",
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "Id": 18,
+      "id": 18,
       "Name": "Gus",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Gus_Happy.png",
       "Caption": "I'm Gus, chef and owner of the Stardrop Saloon. Stop in if you need any refreshments. I've always got hot coffee and cold beer at the ready.",
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "Id": 19,
+      "id": 19,
       "Name": "Jas",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/5/52/Jas_Explaining.png",
       "Caption": "Do you like my bow?",
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "Id": 20,
+      "id": 20,
       "Name": "Jodi",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/b/b2/Jodi_Beach_Happy.png",
       "Caption": "Maintaining a household is difficult work... but somebody has to do it. Yes?",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "Id": 21,
+      "id": 21,
       "Name": "Kent",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/0/06/Kent_Concerned.png",
       "Caption": " I don't know if I'll ever get used to being back home. The peacefulness of the town feels like a mask. That's probably just me though.",
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "Id": 22,
+      "id": 22,
       "Name": "Krobus",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Krobus_Trenchcoat.png",
       "Caption": "I'm Krobus, a merchant of rare and exotic goods.",
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "Id": 23,
+      "id": 23,
       "Name": "Leo",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Leo_Concerned.png",
       "Caption": "When Sun is angry, it feels good in the jungle. Sun can't find us beneath the leaves. We trick him! Haha...",
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "Id": 24,
+      "id": 24,
       "Name": "Lewis",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/2/2b/Lewis.png",
       "Caption": "It's a good season to start thinking about gardening, even for us non-farmers. The valley is known for producing some of the finest spring flowers!",
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "Id": 25,
+      "id": 25,
       "Name": "Linus",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/1/16/Linus_Winter_01.png",
       "Caption": "There's nothing quite like a feast of wild mushrooms in the fall.",
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "Id": 26,
+      "id": 26,
       "Name": "Marnie",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/5/52/Marnie.png",
       "Caption": "Animals are so innocent, so sweet. And If I don't look after them, who will?",
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "Id": 27,
+      "id": 27,
       "Name": "Pam",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/5/51/Pam_Beach.png",
       "Caption": "My house ain't pretty but at least it's by the river.",
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "Id": 32,
+      "id": 32,
       "Name": "Pierre",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/b/be/Pierre_Beach.png",
       "Caption": "It's my day off today. Hmmm... what to do...",
@@ -320,7 +320,7 @@
       ]
     },
     {
-      "Id": 28,
+      "id": 28,
       "Name": "Robin",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Robin_Winter_00.png",
       "Caption": "My husband almost set the house on fire last night with his science experiment. One of his beakers exploded and sent a fireball into the rafters! Thank Yoba I used fire-resistant lacquer when I built the place.",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "Id": 29,
+      "id": 29,
       "Name": "Sandy",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Sandy.png",
       "Caption": "My name's not really Sandy, you know. It's just good for business.",
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "Id": 30,
+      "id": 30,
       "Name": "Vincent",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Vincent_Winter_01.png",
       "Caption": "I wanna be just like my big brother when I grow up!",
@@ -353,7 +353,7 @@
       ]
     },
     {
-      "Id": 31,
+      "id": 31,
       "Name": "Willy",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Willy_Winter_03.png",
       "Caption": "I'm a simple man...when my pipe is full, I'm happy. When my pipe is empty...well, then I just fill 'er up again.",
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "Id": 32,
+      "id": 32,
       "Name": "Wizard",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Wizard.png",
       "Caption": "There are many mysteries around us. You must be patient if you wish to discover them.",
@@ -377,73 +377,73 @@
   ],
   "Randoms": [
     {
-      "Id": 0,
+      "id": 0,
       "Name": "Professor Snail",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/6/68/Professor_Snail_Happy.png",
       "Caption": "If you see something wiggling in the dirt, make sure to excavate it. You never know what might be under there!"
     },
     {
-      "Id": 1,
+      "id": 1,
       "Name": "Birdie",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/5/54/Birdie_Happy.png",
       "Caption": "Fruit, fish, and foraged food... It's a good diet! I feel as healthy as ever."
     },
     {
-      "Id": 2,
+      "id": 2,
       "Name": "Bouncer",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/f/f5/Bouncer.png",
       "Caption": "You little punk..."
     },
     {
-      "Id": 3,
+      "id": 3,
       "Name": "Fizz",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/f/fb/Fizz_03.png",
       "Caption": "I've heard you're trying to achieve 'perfection'. A noble goal! ... but difficult. Very difficult."
     },
     {
-      "Id": 4,
+      "id": 4,
       "Name": "Gil",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/7/7b/Gil_Surprised.png",
       "Caption": "...*snore*..."
     },
     {
-      "Id": 5,
+      "id": 5,
       "Name": "Governor",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/9/90/Governor_Neutral.png",
       "Caption": "It's lovely to see economic development in the valley!"
     },
     {
-      "Id": 6,
+      "id": 6,
       "Name": "Grandpa",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/8/88/Grandpa.png",
       "Caption": "If you're reading this, you must be in dire need of a change. The same thing happened to me, long ago. I'd lost sight of what mattered most in life... real connections with other people and nature. So I dropped everything and moved to the place I truly belong."
     },
     {
-      "Id": 7,
+      "id": 7,
       "Name": "Gunther",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Gunther.png",
       "Caption": "Hey, if you find any artifacts or minerals out there... would you let me know?"
     },
     {
-      "Id": 8,
+      "id": 8,
       "Name": "Henchman",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/4/45/Henchman_Portrait_2.png",
       "Caption": "I'm sorry, but I can't let you pass... I'd lose my job."
     },
     {
-      "Id": 9,
+      "id": 9,
       "Name": "Marlon",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/3/37/Marlon.png",
       "Caption": "Don't get too close to the cage."
     },
     {
-      "Id": 10,
+      "id": 10,
       "Name": "Morris",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/0/0d/Morris_Surprised.png",
       "Caption": "Buy a Joja Membership today and save big on your next purchase!"
     },
     {
-      "Id": 11,
+      "id": 11,
       "Name": "Mr. Qi",
       "Img": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Mr._Qi.png",
       "Caption": "I was born an ordinary boy, but I made a decision early in life that I would become extraordinary"
